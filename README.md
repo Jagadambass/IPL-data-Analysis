@@ -13,14 +13,18 @@ This project is an interactive Power BI dashboard that analyzes IPL match data t
 
 IPL-PowerBI-Analysis/
 │
-├── IPL Analysis.pbix # Main Power BI dashboard file
-├── data/ # Source datasets (Excel/CSV)
-│ └── ipl_matches_data.xlsx
+├── IPL Analysis.pbix
 │
-├── images/ # Dashboard screenshots & team logos
+├── data/
+│ ├── players-data-updated.csv
+│ ├── teams_data.csv
+│ ├── ipl_matches_data.csv
+│ └── ball_by_ball_data.csv
+│
+├── images/
 │ └── dashboard_preview.png
 │
-└── README.md # Project documentation
+└── README.md
 ```
 ---
 
